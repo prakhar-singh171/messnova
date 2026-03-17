@@ -1,0 +1,37 @@
+# dependencies
+node_modules/
+
+# environment variables (VERY IMPORTANT)
+.env
+.env.*
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# temp files
+tmp/
+temp/
+
+# build files (if using TypeScript)
+dist/
+build/
+
+# uploads (if you store files)
+uploads/
+
+# database files (if local)
+*.sqlite
+*.db
+
+# optional
+coverage/
