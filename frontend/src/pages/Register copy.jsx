@@ -35,7 +35,7 @@ const Register = () => {
 
                 <div className="flex items-center mb-8">
                     <img src={Logo} alt="Logo" className="h-12 mr-4" />
-                    <h1 className="text-4xl font-bold text-black">EazyMess</h1>
+                    <h1 className="text-4xl font-bold text-black">MessNova</h1>
                 </div>
                 <div className="flex flex-col items-center space-y-4">
                     <h2 className="text-xl font-semibold">Select Your Role</h2>

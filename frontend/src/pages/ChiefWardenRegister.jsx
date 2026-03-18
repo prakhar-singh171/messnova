@@ -108,7 +108,7 @@ const ChiefWardenRegister = () => {
       
         <div className="flex items-center mb-8">
           <img src={Logo} alt="Logo" className="h-12 mr-4" />
-          <h1 className="text-4xl font-bold text-black">EazyMess</h1>
+          <h1 className="text-4xl font-bold text-black">MessNova</h1>
         </div>
 
         <div className="w-full max-w-xs">
